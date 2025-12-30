@@ -2,7 +2,6 @@
 
 Use the following 3 files to setup your Copilot Agents demo. 
 Paste the ISSUE.md file into a new issue in that repository. 
-Assign Copilot to the new Issue in the new repository.
 Use the STEER.md file to course correct the agent mid session. 
 
 ## What this demo shows
